@@ -23,6 +23,7 @@ namespace HelloWorld
             num = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("sample");
             Console.WriteLine("sample2");
+            Console.WriteLine("sample3");
         }
     }
 }
