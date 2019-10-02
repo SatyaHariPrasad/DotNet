@@ -21,6 +21,7 @@ namespace HelloWorld
             Console.WriteLine("a = {0}, b = {1}, c = {2}", a, b, c);
             int num;
             num = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("sample");
         }
     }
 }
